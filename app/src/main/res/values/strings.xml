@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">数据采集1.0</string>
+
+
+    <!--系统登录界面-->
+    <string name="loginName">登录</string>
+
+    <!--主界面-->
+
+
+</resources>
