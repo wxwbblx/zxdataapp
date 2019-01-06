@@ -20,6 +20,7 @@ class LoginActivity : AppCompatActivity() {
         setContentView(R.layout.activity_login)
 
         timeTextView=findViewById(R.id.timeTextView) as TextView
+        var test:string="asdfasdfasdfasdf"
     }
 
     fun showTime(view: View){
