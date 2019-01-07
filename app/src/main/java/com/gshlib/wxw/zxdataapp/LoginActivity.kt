@@ -43,7 +43,7 @@ class LoginActivity : AppCompatActivity() {
 
 
     }
-    fun
+
 
    /* override fun onClick(v: View?) {
         if (v != null) {
