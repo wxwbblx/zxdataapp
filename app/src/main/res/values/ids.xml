@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="timeTextView" type="id"/>
-    <item name="container" type="id"/>
+
+    <!--login ids-->
+    <item name="login_user" type="id"/>
+    <item name="login_pwd" type="id"/>
+    <item name="login_chxpwd" type="id"/>
+
+    <item name="login_but" type="id"/>
+
+
+
+   <!-- <item name="timeTextView" type="id"/>
+    <item name="container" type="id"/>-->
 </resources>
